@@ -1,7 +1,7 @@
 <h1 align="center">⚽ Copa do Mundo Interativa 3D</h1>
 
 <p align="center">
-Projeto interativo desenvolvido com HTML, CSS e JavaScript,
+Projeto interativo desenvolvido com HTML, CSS,
 apresentando figurinhas de jogadores girando em 360° ao redor da Taça da Copa do Mundo.
 </p>
 
@@ -40,7 +40,6 @@ transformações em CSS e animações suaves.
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
-  <li>JavaScript</li>
 </ul>
 
 <h2>📂 Estrutura do Projeto</h2>
@@ -48,11 +47,10 @@ transformações em CSS e animações suaves.
 <pre>
 📁 copa-do-mundo-3d
  ├── img
- │    └── screenshot.png
+ ├── README.md
  ├── index.html
  ├── style.css
- ├── script.js
- └── README.md
+  
 </pre>
 
 <hr>
@@ -70,9 +68,8 @@ para criar uma experiência diferenciada e criativa no navegador.
 
 <ul>
   <li>🎨 CSS 3D Transform</li>
-  <li>⚡ JavaScript Animation</li>
+  <li>⚡ Animation</li>
   <li>📱 Responsividade</li>
-  <li>🧠 Manipulação do DOM</li>
   <li>🎥 Experiência imersiva</li>
 </ul>
 
